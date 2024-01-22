@@ -1,6 +1,6 @@
 # Haskell Memory Game
 
-An interactive console-based Memory Game implemented in Haskell.
+An interactive console-based Memory Game implemented in Haskell. This is our(Yamin Thiri Wai and Thant Thiri Maung) Final Project of Semester 3 Functional Programming. The game is implemented in Haskell, demonstrating functional programming concepts.
 
 ## Description
 
